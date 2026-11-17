@@ -1,0 +1,19 @@
+# Build outputs & CMake FetchContent cache
+build/
+out/
+cmake-build-*/
+.vs/
+.vscode/
+.cache/
+
+# Binaries & scratch files
+*.exe
+*.dll
+*.a
+*.lib
+*.obj
+*.pdb
+*.ilk
+vela.txt
+vela2.txt
+config/*.txt
